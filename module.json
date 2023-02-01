@@ -32,8 +32,7 @@
             "type": "JournalEntry"
         }
     ],
-    "update": "https://immaterialplane.s3.amazonaws.com/foundryvtt/backstory-cards/backstory-cards-assets-library/module.json",
-    "download": "https://immaterialplane.s3.amazonaws.com/foundryvtt/backstory-cards/backstory-cards-assets-library/backstory-cards-assets-library-2.1.0.zip",
-    "url": "https://immaterialplane.com/",
-    "manifest": "https://immaterialplane.s3.amazonaws.com/foundryvtt/backstory-cards/backstory-cards-assets-library/module.json"
+    "url": "This is auto replaced",
+    "manifest": "This is auto replaced",
+    "download": "This is auto replaced"
 }
