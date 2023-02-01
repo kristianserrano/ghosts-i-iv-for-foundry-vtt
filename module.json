@@ -1,0 +1,39 @@
+{
+    "version": "1.0.0",
+    "id": "nin-ghosts-i-iv",
+    "title": "Ghosts I-IV by Nine Inch Nails",
+    "description": "This album is licensed under a Creative Commons Attribution-Noncommercial Share Alike license. More information: www.creativecommons.org",
+    "authors": [
+        {
+            "name": "Nine Inch Nails",
+            "url": "https://www.nin.com/"
+        },
+        {
+            "name": "The Immaterial Plane",
+            "url": "https://immaterialplane.com",
+            "email": "contact@immaterialplane.com"
+        }
+    ],
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10
+    },
+    "packs": [
+        {
+            "name": "ghosts-i-iv-playlists",
+            "label": "Ghosts I-IV: Playlists",
+            "path": "./packs/ghosts-i-iv-playlists.db",
+            "type": "Playlist"
+        },
+        {
+            "name": "ghosts-i-iv-liner-notes",
+            "label": "Ghosts I-IV: Liner Notes",
+            "path": "./packs/ghosts-i-iv-liner-notes.db",
+            "type": "JournalEntry"
+        }
+    ],
+    "update": "https://immaterialplane.s3.amazonaws.com/foundryvtt/backstory-cards/backstory-cards-assets-library/module.json",
+    "download": "https://immaterialplane.s3.amazonaws.com/foundryvtt/backstory-cards/backstory-cards-assets-library/backstory-cards-assets-library-2.1.0.zip",
+    "url": "https://immaterialplane.com/",
+    "manifest": "https://immaterialplane.s3.amazonaws.com/foundryvtt/backstory-cards/backstory-cards-assets-library/module.json"
+}
