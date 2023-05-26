@@ -9,27 +9,50 @@
             "url": "https://www.nin.com/"
         },
         {
-            "name": "The Immaterial Plane",
+            "name": "Kristian Serrano",
+            "email": "kristianserrano@gmail.com",
             "url": "https://immaterialplane.com",
-            "email": "contact@immaterialplane.com"
+            "discord": "Kristian Serrano#5077",
+            "mastodon": "@KristianSerrano@savageworlds.social",
+            "reddit": "u/kristianserrano"
         }
     ],
     "compatibility": {
         "minimum": 10,
-        "verified": 10
+        "verified": 11
     },
     "packs": [
         {
             "name": "ghosts-i-iv-playlists",
             "label": "Ghosts I-IV: Playlists",
+            "banner": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp",
             "path": "./packs/ghosts-i-iv-playlists.db",
             "type": "Playlist"
         },
         {
             "name": "ghosts-i-iv-liner-notes",
             "label": "Ghosts I-IV: Liner Notes",
+            "banner": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp",
             "path": "./packs/ghosts-i-iv-liner-notes.db",
             "type": "JournalEntry"
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "Ghosts I-IV by Nine Inch Nails",
+            "sorting": "m",
+            "color": "#515245",
+            "packs": [
+                "ghosts-i-iv-playlists",
+                "ghosts-i-iv-liner-notes"
+            ]
+        }
+    ],
+    "media": [
+        {
+            "type": "setup",
+            "url": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp",
+            "thumbnail": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp"
         }
     ],
     "url": "This is auto replaced",
