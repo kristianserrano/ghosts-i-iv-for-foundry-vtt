@@ -18,7 +18,7 @@
         }
     ],
     "compatibility": {
-        "minimum": 10,
+        "minimum": 11,
         "verified": 11
     },
     "packs": [
@@ -26,14 +26,14 @@
             "name": "ghosts-i-iv-playlists",
             "label": "Ghosts I-IV: Playlists",
             "banner": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp",
-            "path": "./packs/ghosts-i-iv-playlists.db",
+            "path": "packs/ghosts-i-iv-playlists",
             "type": "Playlist"
         },
         {
             "name": "ghosts-i-iv-liner-notes",
             "label": "Ghosts I-IV: Liner Notes",
             "banner": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp",
-            "path": "./packs/ghosts-i-iv-liner-notes.db",
+            "path": "packs/ghosts-i-iv-liner-notes",
             "type": "JournalEntry"
         }
     ],
@@ -55,7 +55,7 @@
             "thumbnail": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp"
         }
     ],
-    "url": "This is auto replaced",
-    "manifest": "This is auto replaced",
-    "download": "This is auto replaced"
+    "url": "",
+    "manifest": "",
+    "download": ""
 }
