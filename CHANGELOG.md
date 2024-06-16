@@ -1,9 +1,8 @@
 # Changelog
 
-## v1.2.0
+## v1.1.1
 
-- Switches to using LevelDB exclusively.
-- Changes minimum core compatibility to Foundry VTT v11.
+- Changes minimum core compatibility to Foundry VTT v12.
 
 ## v1.1.0
 
