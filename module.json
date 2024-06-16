@@ -17,9 +17,12 @@
             "reddit": "u/kristianserrano"
         }
     ],
+    "url": "",
+    "manifest": "",
+    "download": "",
     "compatibility": {
-        "minimum": 11,
-        "verified": 11
+        "minimum": 12,
+        "verified": 12
     },
     "packs": [
         {
@@ -54,8 +57,5 @@
             "url": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp",
             "thumbnail": "modules/nin-ghosts-i-iv/art/cover_nine-inch-nails-ghosts-i-iv.webp"
         }
-    ],
-    "url": "",
-    "manifest": "",
-    "download": ""
+    ]
 }

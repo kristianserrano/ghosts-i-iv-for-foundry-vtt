@@ -1,5 +1,0 @@
-2023/12/13-00:22:03.722049 70000d362000 Delete type=3 #1
-2023/12/13-00:25:33.361618 70000e3eb000 Level-0 table #5: started
-2023/12/13-00:25:33.362060 70000e3eb000 Level-0 table #5: 6547 bytes OK
-2023/12/13-00:25:33.362292 70000e3eb000 Delete type=0 #3
-2023/12/13-00:25:33.362478 70000e3eb000 Manual compaction at level-0 from '!playlists!1I4Dyl20PZ2QP9c0' @ 72057594037927935 : 1 .. '!playlists.sounds!sR62cTXYa3nrwpdG.vpSUR9zbOuFp6xMv' @ 0 : 0; will stop at (end)
