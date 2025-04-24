@@ -1,8 +1,6 @@
 {
-    "version": "1.0.0",
     "id": "nin-ghosts-i-iv",
     "title": "Ghosts I-IV by Nine Inch Nails",
-    "description": "This album is licensed under a Creative Commons Attribution-Noncommercial Share Alike license. More information: www.creativecommons.org",
     "authors": [
         {
             "name": "Nine Inch Nails",
@@ -10,19 +8,21 @@
         },
         {
             "name": "Kristian Serrano",
-            "email": "kristianserrano@gmail.com",
             "url": "https://immaterialplane.com",
-            "discord": "Kristian Serrano#5077",
-            "mastodon": "@KristianSerrano@savageworlds.social",
-            "reddit": "u/kristianserrano"
+            "discord": "kristianserrano"
         }
     ],
+    "description": "This album is licensed under a Creative Commons Attribution-Noncommercial Share Alike license. More information: www.creativecommons.org",
+    "version": "",
     "url": "",
     "manifest": "",
     "download": "",
+    "changelog": "",
+    "readme": "",
+    "bugs": "",
     "compatibility": {
         "minimum": 12,
-        "verified": 12
+        "verified": 13
     },
     "packs": [
         {
