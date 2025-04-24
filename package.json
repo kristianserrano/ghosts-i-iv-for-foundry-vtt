@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "createLink": "bash ./tools/createLink.sh",
-    "fvttLaunch-v11": "bash ./tools/fvttLaunch-v11.sh",
     "fvttLaunch-v12": "bash ./tools/fvttLaunch-v12.sh",
+    "fvttLaunch-v13": "bash ./tools/fvttLaunch-v13.sh",
     "packLDB": "node ./tools/packLDB.mjs",
     "unpackLDB": "node ./tools/unpackLDB.mjs"
   },
   "author": "",
   "license": "Creative Commons Attribution-Noncommercial Share Alike license. More information: www.creativecommons.org",
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.2"
+    "@foundryvtt/foundryvtt-cli": "^1.0.4"
   }
 }
