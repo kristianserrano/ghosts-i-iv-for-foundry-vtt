@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.2
+
+- Changes verified core compatibility to Foundry VTT v13.
+
 ## v1.1.1
 
 - Changes minimum core compatibility to Foundry VTT v12.
