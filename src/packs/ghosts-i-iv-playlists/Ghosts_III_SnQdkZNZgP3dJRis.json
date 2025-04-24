@@ -144,9 +144,7 @@
   "sorting": "a",
   "seed": 828,
   "flags": {
-    "core": {
-      "sourceId": "Compendium.nin-ghosts-i-iv.ghosts-i-iv-playlists.pr6LaszgXXNPpdZF"
-    }
+    "core": {}
   },
   "ownership": {
     "default": 0,
@@ -154,16 +152,16 @@
   },
   "_stats": {
     "systemId": "worldbuilding",
-    "systemVersion": "0.8.0",
-    "coreVersion": "12.327",
-    "createdTime": 1685119173821,
-    "modifiedTime": 1718568823456,
-    "lastModifiedBy": "gN1bsEAvBxk982pZ",
-    "compendiumSource": "Compendium.nin-ghosts-i-iv.ghosts-i-iv-playlists.pr6LaszgXXNPpdZF",
-    "duplicateSource": null
+    "systemVersion": "0.8.2",
+    "coreVersion": "13.340",
+    "modifiedTime": 1745465443376,
+    "lastModifiedBy": "f5URxa0VBPVeMzwx",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "folder": null,
-  "sort": 0,
+  "sort": 450000,
   "_id": "SnQdkZNZgP3dJRis",
   "channel": "music",
   "_key": "!playlists!SnQdkZNZgP3dJRis"
